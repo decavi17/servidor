@@ -48,6 +48,17 @@ public class server {
         
         // entrada.close();
         // salida.close();
+        /* para varios usuario crear una class clientes q implemente Runnableb
+        Socket client;
+        cliente(socket client){
+        this.cliente=cliente
+        }
+        void run (){        
+        }
+        en servidor crear while(true){
+        socket cliente servidor.accept
+        }
+        */
     }
     
 }
